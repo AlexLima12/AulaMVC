@@ -12533,28 +12533,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\44063076806\\.nuget\\packages\\": {},
+    "C:\\Users\\bruno afonso\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44063076806\\backend\\mvc\\ProjCidades\\proj\\Proj.csproj",
+      "projectUniqueName": "C:\\Users\\bruno afonso\\Desktop\\mvc\\brunohafonso.github.io-MVC\\Proj.csproj",
       "projectName": "Proj",
-      "projectPath": "C:\\Users\\44063076806\\backend\\mvc\\ProjCidades\\proj\\Proj.csproj",
-      "packagesPath": "C:\\Users\\44063076806\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44063076806\\backend\\mvc\\ProjCidades\\proj\\obj\\",
+      "projectPath": "C:\\Users\\bruno afonso\\Desktop\\mvc\\brunohafonso.github.io-MVC\\Proj.csproj",
+      "packagesPath": "C:\\Users\\bruno afonso\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bruno afonso\\Desktop\\mvc\\brunohafonso.github.io-MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\44063076806\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\bruno afonso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -12573,7 +12575,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "2.0",
             "autoReferenced": true
           },
           "Microsoft.AspNetCore.All": {

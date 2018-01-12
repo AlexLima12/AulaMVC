@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using Proj.Models;
+using System.Data;
+using MySql.Data.MySqlClient;
 
 namespace Proj.Repositorio
 {
@@ -36,6 +38,7 @@ namespace Proj.Repositorio
             return Cidades;
         }
 
+        
         public void Cadastrar(Cidade cidade)
         {
             SqlConnection Cn = new SqlConnection(ConnectionString);
